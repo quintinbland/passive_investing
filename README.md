@@ -70,12 +70,8 @@ Before running the application first install the following dependencies.
 
 
 * A SQL query to join each table in the portfolio into a single DataFrame. 
-    - Write a SQL query to join each table in the portfolio into a single DataFrame.
-<<<<<<< HEAD
+    - Write a SQL query to join each table in the portfolio into a single DataFrame. 
 ![SQL Joining Stock Tables](images/SQL_joining_stock_tables.png)
-=======
-![SQL Joining Stock Tables](images/SQL_joining_stock_tables.png)
->>>>>>> 75d7f4ee4bb320e04ef5146e42aeca792c0a3679
 
 * Create a DataFrame that averages the “daily_returns” columns for all four assets.
 ![ETF Portfolio Returns](images/etf_portfolio_returns.png)
