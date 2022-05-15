@@ -1,4 +1,4 @@
-# passive_investing
+# Passive Investing
 
 This program will analyze the daily retruns of ETF stocks both individually and as a whole. Then deploy visualizations to a web application by using the Voila library.
 
