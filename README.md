@@ -56,8 +56,8 @@ Before running the application first install the following dependencies.
 
 ---------------------------------------------------------------------
 
-### Optimize the SQL Queries
-## Continue to analyze a single asset (PYPL) from the ETF. Using advanced SQL queries to optimize the efficiency of accessing data from the database.
+# Optimize the SQL Queries
+### Continue to analyze a single asset (PYPL) from the ETF. Using advanced SQL queries to optimize the efficiency of accessing data from the database.
 
 * Step 1:
     - Access the closing prices for PYPL that are greater than 200. 
@@ -85,6 +85,8 @@ Before running the application first install the following dependencies.
 * Using the average daily returns in the etf_portfolio_returns DataFrame to calculate the cumulative returns of the ETF portfolio. Visualize.
   - ![Cumulative Returns](images/etf_cumulative_returns_plot.png)
 
+# Deploy the Notebook as a Web Application
+* ![Voila Example](images/voila_example.png)
 ---
 
 ## Contributors
