@@ -37,19 +37,19 @@ Before running the application first install the following dependencies.
 
 * Step 1:
     - Writing a SQL SELECT statement by using an f-string that reads all the PYPL data from the database. Using the SQL SELECT statement, execute a query that reads the PYPL data from the database into a Pandas DataFrame.
-![SQL SELECT example](../images/SQL_SELECT.png)
+![SQL SELECT](images/SQL_SELECT.png)
 
 * Step 2:
     - Use the head and tail functions to review the first five and the last five rows of the DataFrame.
-![DataFrame Reivew](..images/dataframe_review.png)
+![DataFrame Reivew](images/dataframe_review.png)
 
 * Step 3:
     - Using hvPlot, create an interactive visualization for the PYPL daily returns.
-![PYPL Daily Returns](../images/pyplot_daily_returns.png)
+![PYPL Daily Returns](images/pyplot_daily_returns.png)
 
 * Step 4:
     - Using hvPlot, create an interactive visualization for the PYPL cumulative returns.
-![PYPL Cumulative Returns](../images/pypl_cumulative_returns_plot.png)
+![PYPL Cumulative Returns](images/pypl_cumulative_returns_plot.png)
 
 ---------------------------------------------------------------------
 
@@ -58,11 +58,11 @@ Before running the application first install the following dependencies.
 
 * Step 1:
     - Access the closing prices for PYPL that are greater than 200. 
-![PYPL Higher Than 200](..images/pypl_higher_than_200.png)
+![PYPL Higher Than 200](images/pypl_higher_than_200.png)
 
 * Step 2:
     - Sort data to find top 10 PYPL daily returns.
-![PYPL Top 10 Daily Returns](../images/pypl_top_10_returns.png)
+![PYPL Top 10 Daily Returns](images/pypl_top_10_returns.png)
 
 ### Analyze the Fintech ETF Portfolio
 ## Build the entire ETF portfolio and then evaluate its performance. To do so, build the ETF portfolio by using SQL joins to combine all the data for each asset.
@@ -74,7 +74,7 @@ Before running the application first install the following dependencies.
 <<<<<<< HEAD
 ![SQL Joining Stock Tables](images/SQL_joining_stock_tables.png)
 =======
-![SQL Joining Stock Tables](../images/SQL_joining_stock_tables.png)
+![SQL Joining Stock Tables](images/SQL_joining_stock_tables.png)
 >>>>>>> 75d7f4ee4bb320e04ef5146e42aeca792c0a3679
 
 * Create a DataFrame that averages the “daily_returns” columns for all four assets.
