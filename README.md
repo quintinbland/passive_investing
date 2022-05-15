@@ -15,6 +15,8 @@ This project leverages python 3.7 with the following packages:
 * [sqlalchemy](https://docs.sqlalchemy.org/en/14/intro.html) - For database creation.
 
 * [numpy](https://numpy.org/devdocs/index.html) - For scientific computing
+
+* [voila](https://voila.readthedocs.io/en/stable/index.html) - For launching the web application
 ---
 
 ## Installation Guide
@@ -27,6 +29,7 @@ Before running the application first install the following dependencies.
   pip install hvplot
   pip install SQLAlchemy
   pip install numpy
+  pip install voila
 ```
 
 ---
