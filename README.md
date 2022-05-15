@@ -71,16 +71,16 @@ Before running the application first install the following dependencies.
 
 * A SQL query to join each table in the portfolio into a single DataFrame. 
     - Write a SQL query to join each table in the portfolio into a single DataFrame.
-![SQL Joining Stock Tables](..images/SQL_joining_stock_tables.png)
+![SQL Joining Stock Tables](images/SQL_joining_stock_tables.png)
 
 * Create a DataFrame that averages the “daily_returns” columns for all four assets.
-![ETF Portfolio Returns](../images/etf_portfolio_returns.png)
+![ETF Portfolio Returns](images/etf_portfolio_returns.png)
 
 * Using the average daily returns in the etf_portfolio_returns DataFrame to calculate the annualized returns for the portfolio. Display the annualized return value of the ETF portfolio.
-![Annualized Return Value](../images/annualized_etf_portfolio_returns.png)
+![Annualized Return Value](images/annualized_etf_portfolio_returns.png)
 
 * Using the average daily returns in the etf_portfolio_returns DataFrame to calculate the cumulative returns of the ETF portfolio. Visualize.
-![Cumulative Returns](../images/etf_cumulative_returns_plot.png)
+![Cumulative Returns](images/etf_cumulative_returns_plot.png)
 
 ---
 
