@@ -86,7 +86,8 @@ Before running the application first install the following dependencies.
   - ![Cumulative Returns](images/etf_cumulative_returns_plot.png)
 
 # Deploy the Notebook as a Web Application
-* ![Voila Example](images/voila_example.png)
+* Voila Example
+    - ![Voila Example](images/voila_example.png)
 ---
 
 ## Contributors
